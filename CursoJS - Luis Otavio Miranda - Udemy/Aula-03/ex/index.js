@@ -1,0 +1,1 @@
+console.log(`Meu mone é "Raynner Victor". Estou aprendendo JavaScript as`, 10, `da Manhã.`);
